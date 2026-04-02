@@ -1,124 +1,168 @@
-<h1 align="center">Hi 👋, I'm Suvindran Ravindran</h1>
-<h3 align="center">Senior Software Engineer (Executive) | Full Stack & Mobile Developer</h3>
+<h1 align="center">🚀 Suvindran Ravindran</h1>
+<h3 align="center">Senior Software Engineer (Executive) | Laravel Specialist | Web Systems Engineer</h3>
 
 <p align="center">
-  <a href="https://suvindran94.site/">🌐 Portfolio</a>
+  <a href="https://suvindran94.site/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Laravel-Expert-red?style=for-the-badge&logo=laravel">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-orange?style=for-the-badge">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-Senior Software Engineer with 6+ years of experience in building scalable web and mobile applications.
+💼 Senior Software Engineer with **6+ years experience in web-based systems**  
+🏢 Currently at **Polyware Sdn Bhd**  
+🔥 Strong focus on **Laravel development & enterprise web applications**  
+📊 Built **ERP / IERP systems, dashboards & reporting tools**  
+⚙️ Experienced in **CI/CD, deployments & production maintenance**  
+👨‍💼 Led development teams (code reviews, architecture decisions, delivery)  
+🛠️ Highly experienced in **debugging & optimizing production systems**
 
-- 💼 Currently at **Polyware Sdn Bhd**
-- 🚀 Specialized in **Laravel, ERP/IERP systems & API integrations**
-- 📱 Developing mobile apps using **React Native, Expo & FlutterFlow**
-- ⚙️ Experienced in **CI/CD, deployments & production support**
-- 📊 Built **real-time dashboards & reporting systems**
-- 👨‍💼 Led development teams (task allocation, code review, delivery)
-- 🔧 Strong in debugging, optimization & production issue resolution
-
-I focus on writing clean, maintainable code and delivering systems that solve real business problems.
+💡 I specialize in building **scalable, maintainable backend systems that power real business operations.**
 
 ---
 
-### 🧠 Skills
+## 🧠 Core Expertise
 
-I focus on full-stack and mobile development, clear communication, and shipping maintainable code.  
-I enjoy working with teams that value quality and real user impact.
-
----
-
-### 💻 Web Development
-
-PHP, JavaScript, TypeScript, Python  
-Laravel, CodeIgniter  
-MySQL, Composer  
-Blade, Eloquent ORM, Artisan CLI  
-RESTful APIs, API Integration  
-Git, MVC, OOP, Middleware  
-Laravel Mix, Queues & Jobs  
-CI/CD  
+🔥 Laravel Application Architecture  
+🔥 ERP / IERP System Development  
+🔥 RESTful API Design & Integration  
+🔥 Database Optimization & Performance Tuning  
+🔥 Real-time Reporting & Dashboards  
+🔥 CI/CD & Deployment Pipelines  
+🔥 Production Issue Debugging & Fixing  
 
 ---
 
-### 🌐 Frontend Development
+## 🛠️ Tech Stack
 
-HTML, CSS, JavaScript  
-Bootstrap, jQuery  
-Responsive Design, Cross-browser Compatibility  
-AJAX, CSS Grid, Flexbox  
+### 💻 Backend (Main Strength)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python" />
+</p>
+
+- PHP (Laravel Specialist)  
+- RESTful APIs & API Integration  
+- MVC, OOP, Middleware  
+- Queues, Jobs, Scheduling  
+- Composer, Artisan CLI  
 
 ---
 
-### 🎨 UI / UX Design
+### 🌐 Frontend
 
-Figma, Photoshop, Canva  
-Proto.io, Photopea, JustInMind  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
+</p>
 
----
-
-### 📊 Reporting & Tools
-
-KoolReport, Tableau, Chart.js  
-Spatie (Roles & Permission, Simple Excel)  
-mPDF, DOMPDF, Laravel Telescope  
+- HTML, CSS, JavaScript  
+- Bootstrap, jQuery  
+- Responsive UI / Cross-browser  
+- AJAX, Flexbox, CSS Grid  
 
 ---
 
 ### 🗄️ Database
 
-MySQL, Microsoft SQL Server, Firebase  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+- MySQL (Primary)  
+- Microsoft SQL Server  
+- Firebase  
 
 ---
 
-### 📱 Mobile Development
+### 📊 Reporting & Business Tools
 
-React Native, Expo, FlutterFlow, Android Studio  
+<p>
+  <img src="https://skillicons.dev/icons?i=chartjs" />
+</p>
+
+- KoolReport  
+- Tableau  
+- Chart.js  
+- Spatie (Roles & Permission, Simple Excel)  
+- DOMPDF, mPDF, Laravel Telescope  
 
 ---
 
-### ⚙️ Tools & Platforms
+### 📱 Mobile Development (Supporting Skill)
 
-GitHub, Plesk, Hostinger, YeahHost, cPanel  
-NetBeans, Eclipse  
-ToyyibPay Integration  
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+- React Native  
+- Expo  
+- FlutterFlow  
+- Android Studio  
+
+---
+
+### ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Git & GitHub  
+- Plesk, cPanel, Hostinger, YeahHost  
+- CI/CD Pipelines  
+- NetBeans, Eclipse  
+
+---
+
+### 🎨 UI / UX Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+- Figma  
+- Photoshop  
+- Canva  
+- Proto.io, Photopea, JustInMind  
 
 ---
 
 ### 🤖 AI Development Tools
 
-Cursor, GitHub Copilot  
+- Cursor  
+- GitHub Copilot  
 
 ---
 
-### 🧠 Core Expertise
+## 🏆 Professional Highlights
 
-- ERP / IERP System Development  
-- RESTful API Design & Integration  
-- Real-time Dashboards & Reporting  
-- System Optimization & Performance Tuning  
-- CI/CD Pipelines & Deployment  
-- Production Issue Debugging & Resolution  
-- Team Leadership & Project Coordination  
+🚀 Developed and maintained **enterprise ERP systems**  
+📊 Built **real-time dashboards for performance tracking**  
+⚙️ Implemented **CI/CD pipelines for automated deployments**  
+👨‍💼 Led teams of developers in delivering production systems  
+🔧 Handled **critical production issues under pressure**  
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-- 🎓 **BSc (Hons) Software Engineering** – Universiti Kebangsaan Malaysia (**CGPA: 3.49**)  
-- 🎓 Diploma in IT (Programming) – Politeknik Premier Ungku Omar  
-
----
-
-### 🌐 Connect With Me
-
-- 🌍 Portfolio: https://suvindran94.site/  
-- 📧 Email: suvindran94@gmail.com  
+🎓 **BSc (Hons) Software Engineering** – Universiti Kebangsaan Malaysia (**CGPA: 3.49**)  
+🎓 Diploma in IT (Programming) – Politeknik Premier Ungku Omar  
 
 ---
 
-### ✨ Developer Philosophy
+## 🌐 Connect With Me
 
-> "I build systems that are scalable, maintainable, and solve real-world business problems."
+🌍 Portfolio: https://suvindran94.site/  
+📧 Email: suvindran94@gmail.com  
+
+---
+
+## ✨ Developer Philosophy
+
+> "I specialize in building Laravel systems that are not just functional — but scalable, maintainable, and business-critical."
